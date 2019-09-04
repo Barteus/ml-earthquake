@@ -1,4 +1,5 @@
 # Notes
+https://www.drivendata.org/competitions/57/nepal-earthquake/page/134/
 
 ## TODOs:
 - add SMOTE
